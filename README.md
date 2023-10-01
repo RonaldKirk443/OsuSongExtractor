@@ -1,4 +1,4 @@
-# osu_song_extractor
+# Osu! Song Extractor
 This is a small shell script that exports the music files from osu!
 <br>
 To use it, place the shell script in your osu! directory and run it through wsl.
